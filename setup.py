@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="private-db-llm",
+    name="private_db_llm",
     version="0.1.0",
     description="Generate and execute SQL queries against MySQL using an LLM. Get prompt and MySQL connection, give the response with no data leakage!",
     author="Matin Khosravi",
