@@ -2,8 +2,6 @@
 
 **Generate and execute SQL queries against MySQL or PostgreSQL using a Large Language Model (LLM)**
 
----
-
 ## Features
 
 - **Schema Extraction**  
@@ -16,8 +14,6 @@
   Out of the box, supports MySQL and PostgreSQL (via `mysql-connector-python` & `psycopg2-binary`).
 - **SOLID Architecture**  
   Clean separation of concerns, easy to extend to other databases or LLM providers.
-
----
 
 ## Installation
 
